@@ -16,3 +16,4 @@ Step 6:- Open the sentimental_analysis.pig file and provide the correct path for
 Step 7:- Run the following command - pig -x local sentimental_analysis.pig, and you will see all the positive tweets.
 
 #################################END######################################
+This is combined work of https://github.com/dhruvp4u
