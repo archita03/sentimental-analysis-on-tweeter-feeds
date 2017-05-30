@@ -1,4 +1,7 @@
 # sentimental-analysis-on-tweeter-feeds
+
+Team-mate - Dhruv Padalia - https://github.com/dhruvp4u
+
 ##########################SENTIMENTAL ANALYSIS############################
 
 Step 1:- Download and install hadoop in your system, if you dont know how to do it then follow the link - https://www.tutorialspoint.com/hadoop/hadoop_enviornment_setup.htm
@@ -17,5 +20,3 @@ Step 7:- Run the following command - pig -x local sentimental_analysis.pig, and 
 
 #################################END######################################
 
-
-This is combined work of https://github.com/dhruvp4u
